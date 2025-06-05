@@ -231,12 +231,12 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 ## 👩‍💻 Sobre a Desenvolvedora
 
 **Vanessa Rafaella**  
-🎓 Estudante de Sistemas para Internet  
+🎓 Estudante de Sistemas para Internet  - UNICAP
 💻 Apaixonada por criar soluções que simplificam a vida das pessoas  
 
-- **LinkedIn:** [linkedin.com/in/vanessa-rafaella](https://linkedin.com/in/vanessa-rafaella)
+- **LinkedIn:** www.linkedin.com/in/vanessa-rafaella
 - **GitHub:** [github.com/vanessa-rafaella](https://github.com/vanessa-rafaella)
-- **Email:** vanessa.rafaella@email.com
+- **Email:** imvanessarafaella@gmail.com
 
 ## 🙏 Agradecimentos
 
